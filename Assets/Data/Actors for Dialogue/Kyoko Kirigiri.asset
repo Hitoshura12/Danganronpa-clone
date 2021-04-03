@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7e39ece6a3a054691539341d354a30, type: 3}
+  m_Name: Kyoko Kirigiri
+  m_EditorClassIdentifier: 
+  Name: Kyoko Kirigiri
+  sprites:
+  - {fileID: 1624502172151642266, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: -4502515302454442990, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: 5910011896561881756, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: 8459238165842537758, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: -657785750106249826, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: -1003738308144496904, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}

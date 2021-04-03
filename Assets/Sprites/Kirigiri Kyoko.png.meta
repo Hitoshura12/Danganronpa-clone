@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 2924b987513107a4a8103e1608a30009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7003491555142975206
+    second: Kirigiri Kyoko_Idle
+  - first:
+      213: 4973795868161467409
+    second: Kirigiri Kyoko_Thinking
+  - first:
+      213: -2304267891699488021
+    second: Kirigiri Kyoko_Remember
+  - first:
+      213: -5557718985710305390
+    second: Kirigiri Kyoko_Remember2
+  - first:
+      213: -60898796944448226
+    second: Kirigiri Kyoko_Smile
+  - first:
+      213: -174605260006335394
+    second: Kirigiri Kyoko_Blush
+  - first:
+      213: -5762774039764256122
+    second: Kirigiri Kyoko_Doubt
+  - first:
+      213: 246146633330712853
+    second: Kirigiri Kyoko_Angry
+  - first:
+      213: 2170772592394888005
+    second: Kirigiri Kyoko_Surprised
+  - first:
+      213: 9128807642382645559
+    second: Kirigiri Kyoko_Shocked
+  - first:
+      213: -3066278642782177992
+    second: Kirigiri Kyoko_Deduce
+  - first:
+      213: 4144913514062426958
+    second: Kirigiri Kyoko_Deduce1
+  - first:
+      213: 347782350466136408
+    second: Kirigiri Kyoko_Stare
+  - first:
+      213: -331692876542921816
+    second: Kirigiri Kyoko_Talk
+  - first:
+      213: -1791728411435457817
+    second: Kirigiri Kyoko_Smirk
+  - first:
+      213: -6721667011818764652
+    second: Kirigiri Kyoko_Objection
+  - first:
+      213: -616345861293631052
+    second: Kirigiri Kyoko_Rest
+  - first:
+      213: 7634367282004118518
+    second: Kirigiri Kyoko_Goof
+  - first:
+      213: 4559872650998855658
+    second: Kirigiri Kyoko_Leave
+  - first:
+      213: -1385582627998449127
+    second: Kirigiri Kyoko_Goof2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2259
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11414469899ece90800000000000000
+      internalID: -7003491555142975206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Thinking
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2259
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e1136df8760540800000000000000
+      internalID: 4973795868161467409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Remember
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2259
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae9ef9f889500e0800000000000000
+      internalID: -2304267891699488021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Remember2
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2259
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ffa4f47040fd2b0800000000000000
+      internalID: -5557718985710305390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Smile
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a0e8edd4a72ff0800000000000000
+      internalID: -60898796944448226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Blush
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1695
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c586de07da39df0800000000000000
+      internalID: -174605260006335394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Doubt
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1695
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a32071b838600b0800000000000000
+      internalID: -5762774039764256122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Angry
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1695
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511e5521f0d7a6300800000000000000
+      internalID: 246146633330712853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Surprised
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e9d9eb22202e10800000000000000
+      internalID: 2170772592394888005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Shocked
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1131
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b61b2f2a00be70800000000000000
+      internalID: 9128807642382645559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Deduce
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1133
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f99af1d36275d0800000000000000
+      internalID: -3066278642782177992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Deduce1
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1131
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43386e51e0b58930800000000000000
+      internalID: 4144913514062426958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Stare
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593fa2843293d400800000000000000
+      internalID: 347782350466136408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Talk
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 567
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b12f0617956bf0800000000000000
+      internalID: -331692876542921816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Smirk
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 562
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22a66b0808227e0800000000000000
+      internalID: -1791728411435457817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Objection
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 567
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c4163777d7b2a0800000000000000
+      internalID: -6721667011818764652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Rest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99fc664bc4277f0800000000000000
+      internalID: -616345861293631052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Goof
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb48b82898b2f960800000000000000
+      internalID: 7634367282004118518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Leave
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73ecf440ce74f30800000000000000
+      internalID: 4559872650998855658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirigiri Kyoko_Goof2
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3
+        width: 710
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124333e0fb65cce0800000000000000
+      internalID: -1385582627998449127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d7842ef14e977541afa37acc3345ff5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

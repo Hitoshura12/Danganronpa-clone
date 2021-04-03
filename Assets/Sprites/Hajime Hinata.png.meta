@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 47d8bb8780f6ec74e953242f519d0afd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3670012202225253726
+    second: Hajime Hinata_Idle
+  - first:
+      213: 6742219419720340090
+    second: Hajime Hinata_Think
+  - first:
+      213: -3013808382751834097
+    second: Hajime Hinata_Surprised
+  - first:
+      213: -6865922821757181616
+    second: Hajime Hinata_Shocked
+  - first:
+      213: 8813279764892923318
+    second: Hajime Hinata_Deduction
+  - first:
+      213: 4631874406678831984
+    second: Hajime Hinata_Regret
+  - first:
+      213: -8419603141897696309
+    second: Hajime Hinata_Deduction2
+  - first:
+      213: -3124287622039861789
+    second: Hajime Hinata_7
+  - first:
+      213: 1994964202909584442
+    second: Hajime Hinata_Angry
+  - first:
+      213: 59446058565780422
+    second: Hajime Hinata_9
+  - first:
+      213: -5456983599398795358
+    second: Hajime Hinata_10
+  - first:
+      213: 1604469224249815805
+    second: Hajime Hinata_11
+  - first:
+      213: 7545163445174380813
+    second: Hajime Hinata_12
+  - first:
+      213: -4027699182515027079
+    second: Hajime Hinata_13
+  - first:
+      213: -8568668506758299027
+    second: Hajime Hinata_14
+  - first:
+      213: -1548707537281650275
+    second: Hajime Hinata_Izuru
+  - first:
+      213: 9136968320860656385
+    second: Hajime Hinata_16
+  - first:
+      213: -4633287037978799699
+    second: Hajime Hinata_17
+  - first:
+      213: -8176617178753790205
+    second: Hajime Hinata_18
+  - first:
+      213: -4918334158266185528
+    second: Hajime Hinata_19
+  - first:
+      213: 1593743303140693905
+    second: Hajime Hinata_20
+  - first:
+      213: 4070746087227825430
+    second: Hajime Hinata_21
+  - first:
+      213: -8615894945647750912
+    second: Hajime Hinata_22
+  - first:
+      213: 669676268391498933
+    second: Hajime Hinata_23
+  - first:
+      213: -5652081517647992568
+    second: Hajime Hinata_24
+  - first:
+      213: -326148427975636890
+    second: Hajime Hinata_25
+  - first:
+      213: -7847849383775166050
+    second: Hajime Hinata_26
+  - first:
+      213: 2502488694213840791
+    second: Hajime Hinata_27
+  - first:
+      213: 8106731267916390376
+    second: Hajime Hinata_28
+  - first:
+      213: -3146808917636311611
+    second: Hajime Hinata_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 3
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hajime Hinata_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5079
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d3cf247a08ee230800000000000000
+      internalID: 3670012202225253726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Think
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 5079
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72db2627dc219d50800000000000000
+      internalID: 6742219419720340090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Surprised
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 5079
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008bf46e3dcc26d0800000000000000
+      internalID: -3013808382751834097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Shocked
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4515
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516ae1229757b0a0800000000000000
+      internalID: -6865922821757181616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Deduction
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4525
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5b49c504f0f4a70800000000000000
+      internalID: 8813279764892923318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Regret
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4515
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a05e6b39b74040800000000000000
+      internalID: 4631874406678831984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Deduction2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3951.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbcc692d8f872b80800000000000000
+      internalID: -8419603141897696309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3951.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50a2006fc44a4d0800000000000000
+      internalID: -3124287622039861789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Angry
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3951
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ccb0e6f598fab10800000000000000
+      internalID: 1994964202909584442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3387.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34c1410e133d000800000000000000
+      internalID: 59446058565780422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3387.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c3b42456e444b0800000000000000
+      internalID: -5456983599398795358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3387
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f4743248344610800000000000000
+      internalID: 1604469224249815805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2823.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a1e96d2ec5b860800000000000000
+      internalID: 7545163445174380813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2823.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738f04eeecba18c0800000000000000
+      internalID: -4027699182515027079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2823
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6248905469f51980800000000000000
+      internalID: -8568668506758299027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_Izuru
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917b5343b2e18ae0800000000000000
+      internalID: -1548707537281650275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2259
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10395e037480dce70800000000000000
+      internalID: 9136968320860656385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2259
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da11ad6bcf143bfb0800000000000000
+      internalID: -4633287037978799699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1705
+        width: 840
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f060c5ff1d68e80800000000000000
+      internalID: -8176617178753790205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1695.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8cfd934219ebbb0800000000000000
+      internalID: -4918334158266185528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_20
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1695
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197dbd6171d1e1610800000000000000
+      internalID: 1593743303140693905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9604aff13e7830800000000000000
+      internalID: 4070746087227825430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1131.6
+        width: 840
+        height: 564.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001159622313e6880800000000000000
+      internalID: -8615894945647750912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1131
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40cfb940b2b4900800000000000000
+      internalID: 669676268391498933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 577
+        width: 840
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096a034ec5cf81b0800000000000000
+      internalID: -5652081517647992568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 567
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c5769bb9497bf0800000000000000
+      internalID: -326148427975636890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 567
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91205da096d61390800000000000000
+      internalID: -7847849383775166050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f0c096530aab220800000000000000
+      internalID: 2502488694213840791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef55b90325e08070800000000000000
+      internalID: 8106731267916390376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hajime Hinata_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3
+        width: 840
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5914046f94454d0800000000000000
+      internalID: -3146808917636311611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b415ec8caca475d44ba4bd96135ff704
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

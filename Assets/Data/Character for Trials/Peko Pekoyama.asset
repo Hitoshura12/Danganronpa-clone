@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78173ad233d15214a9a4087b1bf1daf5, type: 3}
+  m_Name: Peko Pekoyama
+  m_EditorClassIdentifier: 
+  characterName: Peko Pekoyama
+  sprites:
+  - {fileID: 245883831486279683, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
+  - {fileID: 473681385789192604, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
+  - {fileID: 2827816638784472128, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
+  - {fileID: -6957607122015184280, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
+  - {fileID: 3973487425723077589, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
+  scale: {x: 0.2, y: 0.2, z: 0.2}

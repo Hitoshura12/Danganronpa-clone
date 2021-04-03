@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 23f8a2af8041fee439f4a458e2b74082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3092520190049258906
+    second: Peko Pekoyama_Talk
+  - first:
+      213: -1976425571137057513
+    second: Peko Pekoyama_Gulp
+  - first:
+      213: -6446312530416030586
+    second: Peko Pekoyama_Frustrated
+  - first:
+      213: 4467749629059866168
+    second: Peko Pekoyama_PokerFace
+  - first:
+      213: 7448836423262562552
+    second: Peko Pekoyama_Fight
+  - first:
+      213: -6511129207827653643
+    second: Peko Pekoyama_Rest
+  - first:
+      213: -6957607122015184280
+    second: Peko Pekoyama_Deduction
+  - first:
+      213: 3973487425723077589
+    second: Peko Pekoyama_Blush
+  - first:
+      213: 2827816638784472128
+    second: Peko Pekoyama_Angry
+  - first:
+      213: 473681385789192604
+    second: Peko Pekoyama_Surprised
+  - first:
+      213: -4251479048204208107
+    second: Peko Pekoyama_Stare
+  - first:
+      213: 3944692916418964424
+    second: Peko Pekoyama_Surprise
+  - first:
+      213: 5289840550395246033
+    second: Peko Pekoyama_Smirk
+  - first:
+      213: 789001582315624694
+    second: Peko Pekoyama_Doubt
+  - first:
+      213: -9143190097718977966
+    second: Peko Pekoyama_Cry
+  - first:
+      213: -9019538544458707198
+    second: Peko Pekoyama_Cry2
+  - first:
+      213: 3604133456540652612
+    second: Peko Pekoyama_Sad
+  - first:
+      213: 6689883773247571585
+    second: Peko Pekoyama_Smile
+  - first:
+      213: 3239422745791489500
+    second: Peko Pekoyama_18
+  - first:
+      213: -1042873230474558569
+    second: Peko Pekoyama_19
+  - first:
+      213: -1479374345450140178
+    second: Peko Pekoyama_20
+  - first:
+      213: 245883831486279683
+    second: Peko Pekoyama_Idle
+  - first:
+      213: 6872748898570299800
+    second: Peko Pekoyama_22
+  - first:
+      213: -295874651932559184
+    second: Peko Pekoyama_23
+  - first:
+      213: -7872534725762682945
+    second: Peko Pekoyama_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peko Pekoyama_Talk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0c9c5ab6daea20800000000000000
+      internalID: 3092520190049258906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Gulp
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2259.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d80632a635294e0800000000000000
+      internalID: -1976425571137057513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Frustrated
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2259.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c276958e81a86a0800000000000000
+      internalID: -6446312530416030586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_PokerFace
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2259.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e1f71dd92a00e30800000000000000
+      internalID: 4467749629059866168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Fight
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2259.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f86e86e2459f5760800000000000000
+      internalID: 7448836423262562552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Rest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb13c0ab72d3a5a0800000000000000
+      internalID: -6511129207827653643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Deduction
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1695.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a9e8d7f2d917f90800000000000000
+      internalID: -6957607122015184280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Blush
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1695.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d394b1e2c9a42730800000000000000
+      internalID: 3973487425723077589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Angry
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1695.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04400b4204c6e3720800000000000000
+      internalID: 2827816638784472128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Surprised
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1695.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99fda0f5bad29600800000000000000
+      internalID: 473681385789192604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Stare
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 604
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b5c9b456bff4c0800000000000000
+      internalID: -4251479048204208107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Surprise
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1131.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe62fbe4d5eb630800000000000000
+      internalID: 3944692916418964424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Smirk
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1131.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f3cc24f9496940800000000000000
+      internalID: 5289840550395246033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Doubt
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1131.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d42142c813fa00800000000000000
+      internalID: 789001582315624694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Cry
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1131.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a579f7c0ddc1180800000000000000
+      internalID: -9143190097718977966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Cry2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f489b3b7924d280800000000000000
+      internalID: -9019538544458707198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Sad
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 567.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d4308844740230800000000000000
+      internalID: 3604133456540652612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Smile
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 567.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864215e8dd37dc50800000000000000
+      internalID: 6689883773247571585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_18
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 567.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e838f2ddb4fc20800000000000000
+      internalID: 3239422745791489500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_19
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 567.2
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793cccf7258f681f0800000000000000
+      internalID: -1042873230474558569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.2000122
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4e91fed4387be0800000000000000
+      internalID: -1479374345450140178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_Idle
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3.2000122
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30070cfba0e896300800000000000000
+      internalID: 245883831486279683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_22
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 3.2000122
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996db9b5b8e06f50800000000000000
+      internalID: 6872748898570299800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_23
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 3.2000122
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b874895297d4ebf0800000000000000
+      internalID: -295874651932559184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peko Pekoyama_24
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 3.2000122
+        width: 604
+        height: 564.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfecfc90632fb290800000000000000
+      internalID: -7872534725762682945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 406e551cf7197da4bb94b279f6379041
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
