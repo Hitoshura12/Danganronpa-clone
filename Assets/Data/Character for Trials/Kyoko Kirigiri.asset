@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Kyoko Kirigiri
   sprites:
-  - {fileID: -7003491555142975206, guid: 2924b987513107a4a8103e1608a30009, type: 3}
-  - {fileID: 2170772592394888005, guid: 2924b987513107a4a8103e1608a30009, type: 3}
-  - {fileID: 246146633330712853, guid: 2924b987513107a4a8103e1608a30009, type: 3}
-  - {fileID: -3066278642782177992, guid: 2924b987513107a4a8103e1608a30009, type: 3}
-  - {fileID: -174605260006335394, guid: 2924b987513107a4a8103e1608a30009, type: 3}
-  scale: {x: 0.2, y: 0.2, z: 0.2}
+  - {fileID: -3368107414863971215, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: -657785750106249826, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: 5910011896561881756, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: 1007931766683955409, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  - {fileID: 1624502172151642266, guid: 86eebe5bc12c2cb40af7db45d61c29db, type: 3}
+  scale: {x: 0.2, y: 0.25, z: 0.2}

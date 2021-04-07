@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: fdddd583af06dab44b3b4dc925bc3e43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1321001794623249964
+    second: Full - Junko Enoshima_0
+  - first:
+      213: -3720865153722030236
+    second: Full - Junko Enoshima_Grin
+  - first:
+      213: -7849393983816074934
+    second: Full - Junko Enoshima_Angry
+  - first:
+      213: -4482475611860092108
+    second: Full - Junko Enoshima_Laugh
+  - first:
+      213: 9063202081844237743
+    second: Full - Junko Enoshima_Deduction
+  - first:
+      213: 8625915625019816993
+    second: Full - Junko Enoshima_Blush
+  - first:
+      213: 5792959139793508179
+    second: Full - Junko Enoshima_Sad
+  - first:
+      213: -7049282064417260163
+    second: Full - Junko Enoshima_Sa
+  - first:
+      213: 1256595224485149963
+    second: Full - Junko Enoshima_Idle
+  - first:
+      213: 1049409470950879823
+    second: Full - Junko Enoshima_Surprised
+  - first:
+      213: 2026277484633422436
+    second: Full - Junko Enoshima_Drool
+  - first:
+      213: -7061202171636986630
+    second: Full - Junko Enoshima_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2081.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1e3d3eddbdaade0800000000000000
+      internalID: -1321001794623249964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Grin
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2081.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e44f4bd4dc5cc0800000000000000
+      internalID: -3720865153722030236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Angry
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2081.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49fd8472c9511390800000000000000
+      internalID: -7849393983816074934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Laugh
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2087
+        width: 504
+        height: 1011
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3ab02e2c0bc1c0800000000000000
+      internalID: -4482475611860092108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Deduction
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1051.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa518e74646f6cd70800000000000000
+      internalID: 9063202081844237743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Blush
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1051.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3cc31f8865b770800000000000000
+      internalID: 8625915625019816993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Sad
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1051.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3579ebd25a9b46050800000000000000
+      internalID: 5792959139793508179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Sa
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1051.3333
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d70e4af4beb2e90800000000000000
+      internalID: -7049282064417260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Idle
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21.333313
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db3ede2b2507110800000000000000
+      internalID: 1256595224485149963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Surprised
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 21.333313
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4235f39a50409e00800000000000000
+      internalID: 1049409470950879823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_Drool
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 21.333313
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a72f7f2a8ce1c10800000000000000
+      internalID: 2026277484633422436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full - Junko Enoshima_11
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 21.333313
+        width: 504.5
+        height: 1010.6667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4c586902910e90800000000000000
+      internalID: -7061202171636986630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c17470675bedab946b0dff471120a96b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

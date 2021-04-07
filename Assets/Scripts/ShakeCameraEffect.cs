@@ -18,5 +18,11 @@ public class ShakeCameraEffect : CameraEffect
                 );
             effectController.position = newPosition;
         }
+        //added block
+        else
+        {
+            effectController.position = Vector3.zero;
+        }
+      
     }
 }

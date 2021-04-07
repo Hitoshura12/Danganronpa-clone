@@ -28,15 +28,14 @@ public class CameraController : MonoBehaviour
     {
         Vector3 targetDir = target.position - pivot.position;
         targetDir.y = 0f;
-        Vector3 cameraDir = cameraTransform.position - effectController.position- pivot.position;
+        Vector3 cameraDir = cameraTransform.position - effectController.position - pivot.position;
         cameraDir.y = 0;
-
+        
         float targetAngle = Vector3.SignedAngle(targetDir, pivot.forward, Vector3.up);
         float cameraAngle = Vector3.SignedAngle(cameraDir, pivot.forward, Vector3.up);
 
-
         newAngle = Mathf.MoveTowardsAngle(cameraAngle, targetAngle, speed * Time.deltaTime);
-
+      
         newAngle *= Mathf.Deg2Rad;
         float x = Mathf.Sin(-newAngle) * (radius + effectController.zoom);
         float z = Mathf.Cos(newAngle)  * (radius + effectController.zoom);

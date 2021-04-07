@@ -30,7 +30,7 @@ MonoBehaviour:
     drawNode: {fileID: 11400000, guid: 53901a4c0f7a77a4badb7394365c69b1, type: 2}
     text: 
     character: {fileID: 11400000, guid: 41b07a10ba6771345b40447975145cd7, type: 2}
-    cameraEffect: {fileID: 11400000, guid: ab32505d909316d449851072e205455a, type: 2}
+    cameraEffect: {fileID: 11400000, guid: 8e123d859a5896348ae011aec94e1c15, type: 2}
     textLines:
     - text: What's the meaning of this  {0} ??
       textEffect:
@@ -59,19 +59,19 @@ MonoBehaviour:
     drawNode: {fileID: 11400000, guid: 53901a4c0f7a77a4badb7394365c69b1, type: 2}
     text: 
     character: {fileID: 11400000, guid: 3e42d0fd12a5cab4aa081f267d0dfccb, type: 2}
-    cameraEffect: {fileID: 11400000, guid: 8e123d859a5896348ae011aec94e1c15, type: 2}
+    cameraEffect: {fileID: 11400000, guid: ab32505d909316d449851072e205455a, type: 2}
     textLines:
     - text: Junko??! How .?
       textEffect:
       - {fileID: 11400000, guid: 0d3cc60b7285ade48a706b422fe7e30d, type: 2}
       spawnOffset: {x: 0, y: 0, z: 1}
       scale: {x: 1, y: 1, z: 1}
-      ttl: 5
+      ttl: 2.5
     voiceLine: {fileID: 8300000, guid: d910dcec3ea931f41be7808a33f804f0, type: 3}
     evidence: {fileID: 0}
     statement: 
     statementColor: {r: 0, g: 0, b: 0, a: 0}
-    expression: 2
+    expression: 1
   - nodeRect:
       serializedVersion: 2
       x: 650
@@ -82,14 +82,14 @@ MonoBehaviour:
     drawNode: {fileID: 11400000, guid: 53901a4c0f7a77a4badb7394365c69b1, type: 2}
     text: 
     character: {fileID: 11400000, guid: 5c7a4bd028ce594418c7866fca171e9f, type: 2}
-    cameraEffect: {fileID: 11400000, guid: c80bf8ef0bc52f2449b5b410d8262de9, type: 2}
+    cameraEffect: {fileID: 11400000, guid: ab32505d909316d449851072e205455a, type: 2}
     textLines:
     - text: You can't be trusted...
       textEffect:
       - {fileID: 11400000, guid: 99a6adac155779e49a4b68f6fe53f8f5, type: 2}
       spawnOffset: {x: -1, y: 0, z: 0}
       scale: {x: 1, y: 1, z: 1}
-      ttl: 5
+      ttl: 4
     voiceLine: {fileID: 8300000, guid: a5dbb79e476d6444290bcdba06d85e57, type: 3}
     evidence: {fileID: 0}
     statement: 
@@ -105,11 +105,11 @@ MonoBehaviour:
     drawNode: {fileID: 11400000, guid: 53901a4c0f7a77a4badb7394365c69b1, type: 2}
     text: 
     character: {fileID: 11400000, guid: c2f31bc874a704042acf7b81c5ece984, type: 2}
-    cameraEffect: {fileID: 11400000, guid: 909e129084a67f842a01f46aedb9d187, type: 2}
+    cameraEffect: {fileID: 0}
     textLines:
     - text: 'What did cute old me do to boring you? '
       textEffect:
-      - {fileID: 11400000, guid: 0a0554c7e4459644a891dbb7107ec2c2, type: 2}
+      - {fileID: 11400000, guid: 0d3cc60b7285ade48a706b422fe7e30d, type: 2}
       spawnOffset: {x: 1, y: 0, z: 0}
       scale: {x: 1, y: 1, z: 1}
       ttl: 4
@@ -117,4 +117,4 @@ MonoBehaviour:
     evidence: {fileID: 0}
     statement: 
     statementColor: {r: 0, g: 0, b: 0, a: 0}
-    expression: 0
+    expression: 4

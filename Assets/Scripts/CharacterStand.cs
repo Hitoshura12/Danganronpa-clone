@@ -13,6 +13,7 @@ public class CharacterStand : MonoBehaviour
     private void Start()
     {
         spriteRenderer.transform.localScale = character.scale;
+      //  spriteRenderer.sortingOrder = 1;
         SetSprite();
     }
     private void Update()

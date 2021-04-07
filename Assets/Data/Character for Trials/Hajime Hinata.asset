@@ -19,4 +19,4 @@ MonoBehaviour:
   - {fileID: 1994964202909584442, guid: 47d8bb8780f6ec74e953242f519d0afd, type: 3}
   - {fileID: -8419603141897696309, guid: 47d8bb8780f6ec74e953242f519d0afd, type: 3}
   - {fileID: 4631874406678831984, guid: 47d8bb8780f6ec74e953242f519d0afd, type: 3}
-  scale: {x: 0.2, y: 0.2, z: 0.2}
+  scale: {x: 0.2, y: 0.25, z: 0.2}

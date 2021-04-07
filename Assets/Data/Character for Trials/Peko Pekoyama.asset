@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Peko Pekoyama
   sprites:
-  - {fileID: 245883831486279683, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
-  - {fileID: 473681385789192604, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
-  - {fileID: 2827816638784472128, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
-  - {fileID: -6957607122015184280, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
-  - {fileID: 3973487425723077589, guid: 23f8a2af8041fee439f4a458e2b74082, type: 3}
-  scale: {x: 0.2, y: 0.2, z: 0.2}
+  - {fileID: -5744897060819741081, guid: 4d26f337469180644b956403c1550fdd, type: 3}
+  - {fileID: -5821397251644523425, guid: 4d26f337469180644b956403c1550fdd, type: 3}
+  - {fileID: -5157465729034452610, guid: 4d26f337469180644b956403c1550fdd, type: 3}
+  - {fileID: -1726382588087592683, guid: 4d26f337469180644b956403c1550fdd, type: 3}
+  - {fileID: -2340400920539659538, guid: 4d26f337469180644b956403c1550fdd, type: 3}
+  scale: {x: 0.2, y: 0.25, z: 0.2}

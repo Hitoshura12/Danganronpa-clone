@@ -11,4 +11,13 @@ public class MusicManager : MonoBehaviour
         musicAudioSource.clip = clip;
         musicAudioSource.Play();
     }
+    internal void Pause()
+    {
+        musicAudioSource.Pause();
+    }
+
+    internal void UnPause()
+    {
+        musicAudioSource.UnPause();
+    }
 }

@@ -141,7 +141,6 @@ public class GameLoop : MonoBehaviour
                         }
                     }
                 }
-              
 
             }
 
@@ -168,10 +167,12 @@ public class GameLoop : MonoBehaviour
         if (pause==true)
         {
             audioManager.Pause();
+            musicManager.Pause();
         }
         else
         {
             audioManager.UnPause();
+            musicManager.UnPause();
         }
     }
 
@@ -226,8 +227,6 @@ public class GameLoop : MonoBehaviour
                    + nextDialogueNode.statement + "</color>") ;
                
             }
-
-
             tmp.text = str;
             TextLine textLine = new TextLine(
                 go,

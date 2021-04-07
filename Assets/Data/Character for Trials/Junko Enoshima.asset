@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Junko Enoshima
   sprites:
-  - {fileID: -4676036360516375306, guid: 68859a93a0fe28245a4d867252007e32, type: 3}
-  - {fileID: -2877933091635632034, guid: 68859a93a0fe28245a4d867252007e32, type: 3}
-  - {fileID: 8148609416623367705, guid: 68859a93a0fe28245a4d867252007e32, type: 3}
-  - {fileID: 5003733347866719742, guid: 68859a93a0fe28245a4d867252007e32, type: 3}
-  - {fileID: 5694282430830271782, guid: 68859a93a0fe28245a4d867252007e32, type: 3}
-  scale: {x: 0.2, y: 0.2, z: 0.2}
+  - {fileID: 1256595224485149963, guid: fdddd583af06dab44b3b4dc925bc3e43, type: 3}
+  - {fileID: 1049409470950879823, guid: fdddd583af06dab44b3b4dc925bc3e43, type: 3}
+  - {fileID: -7849393983816074934, guid: fdddd583af06dab44b3b4dc925bc3e43, type: 3}
+  - {fileID: 9063202081844237743, guid: fdddd583af06dab44b3b4dc925bc3e43, type: 3}
+  - {fileID: 8625915625019816993, guid: fdddd583af06dab44b3b4dc925bc3e43, type: 3}
+  scale: {x: 0.2, y: 0.25, z: 0.2}

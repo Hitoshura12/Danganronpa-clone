@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0edb30e037aea8842a1e94356c3fd4b0, type: 3}
   m_Name: Shake
   m_EditorClassIdentifier: 
-  timeLimit: 1
+  timeLimit: 3
   limits: {x: 0.2, y: 0.2, z: 0.2}
-  intensity: 172
+  intensity: 180
